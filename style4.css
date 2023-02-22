@@ -1,0 +1,81 @@
+.topnav {
+    background-color: rgb(37, 37, 37);
+    overflow: hidden;
+  }
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+.button{
+    border-radius: 25px;
+    border-color: whitesmoke;
+    font-size: 50px;
+    background-color: whitesmoke;
+    color: slategray;
+    display: flex;
+    margin: auto auto auto;
+    margin-bottom: 10px;
+    visibility: visible;
+  }
+  
+  .button2{
+    border-radius: 25px;
+    border-color: whitesmoke;
+    font-size: 50px;
+    background-color: whitesmoke;
+    color: slategray;
+    display: flex;
+    margin: auto auto auto;
+    margin-bottom: 10px;
+    visibility: hidden;
+  }
+  
+  .button3{
+    border-radius: 25px;
+    border-color: whitesmoke;
+    font-size: 50px;
+    background-color: whitesmoke;
+    color: slategray;
+    display: flex;
+    margin: auto auto auto;
+    margin-bottom: 10px;
+    visibility: hidden;
+  }
+  
+  .button4{
+    border-radius: 25px;
+    border-color: whitesmoke;
+    font-size: 50px;
+    background-color: whitesmoke;
+    color: slategray;
+    display: flex;
+    margin: auto auto auto;
+    margin-bottom: 10px;
+    visibility: hidden;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 75px;
+  }
+  
+  .timer{
+    text-align: center;
+    font-size: 50px;
+  }
+  
+  .words{
+    text-align: center;
+    font-size: 50px;
+  };
