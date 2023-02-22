@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(59, 56, 56);
+}
+
+#layout {
+    text-align: center;
+    color: gainsboro;
+}
+
+h1 {
+    font-size: 500%;
+}
+
+h2 {
+  font-size: 300%;
+}
+
+p {
+    font-size: 250%
+}
+
+.topnav {
+    background-color: rgb(37, 37, 37);
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  #conLayout {
+    text-align: center;
+    color: gainsboro;
+  }
+
+  #projLayout {
+    text-align: center;
+    color: gainsboro;
+  }
+
+  .projLinks {
+    background-color: rgb(37, 37, 37);
+    overflow: hidden;
+  }
+  
+  .projLinks a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .projLinks a:hover {
+    background-color: #ddd;
+    color: black;
+  }
